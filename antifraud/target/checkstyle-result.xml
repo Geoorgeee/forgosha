@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\AntiFraudApplication.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\controller\AuditController.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\controller\SuspiciousAccountTransferController.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\controller\SuspiciousCardTransferController.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\controller\SuspiciousPhoneTransferController.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\dto\AuditDto.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\dto\SuspiciousAccountTransferDto.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\dto\SuspiciousCardTransferDto.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\dto\SuspiciousPhoneTransferDto.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\entity\AuditEntity.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\entity\SuspiciousAccountTransferEntity.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\entity\SuspiciousCardTransferEntity.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\entity\SuspiciousPhoneTransferEntity.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\mappers\AuditMapper.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\mappers\SuspiciousAccountTransferMapper.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\mappers\SuspiciousCardTransferMapper.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\mappers\SuspiciousPhoneTransferMapper.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\repository\AuditRepository.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\repository\SuspiciousAccountTransferRepository.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\repository\SuspiciousCardTransferRepository.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\repository\SuspiciousPhoneTransferRepository.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\AuditService.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\common\ExceptionReturner.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\impl\AuditServiceImpl.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\impl\SuspiciousAccountTransferServiceImpl.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\impl\SuspiciousCardTransferServiceImpl.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\impl\SuspiciousPhoneTransferServiceImpl.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\SuspiciousAccountTransferService.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\SuspiciousCardTransferService.java">
+</file>
+<file name="C:\Users\ПК\p-ra-bank-2\antifraud\src\main\java\com\bank\antifraud\service\SuspiciousPhoneTransferService.java">
+</file>
+</checkstyle>

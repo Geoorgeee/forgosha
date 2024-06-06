@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0.074" tests="8" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="noListDtoNullTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0.061"/>
+  <testcase name="mergeToEntityTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0.003"/>
+  <testcase name="noDtoNullTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0"/>
+  <testcase name="toDtoTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0.004"/>
+  <testcase name="noEntityNullTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0"/>
+  <testcase name="toEntityTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0.003"/>
+  <testcase name="toListDtoTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0.001"/>
+  <testcase name="mergeToEntityNullTest" classname="com.bank.antifraud.mappers.SuspiciousCardTransferMapperImplTest" time="0"/>
+</testsuite>

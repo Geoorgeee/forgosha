@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.773" tests="8" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="createPositiveTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.007"/>
+  <testcase name="createNegativeTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.014"/>
+  <testcase name="readByIdPositiveTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.004"/>
+  <testcase name="updateNonExistEntityNegativeTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.014"/>
+  <testcase name="readByNonExistIdNegativeTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.013"/>
+  <testcase name="updateIfEntityIsExistPositiveTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.005"/>
+  <testcase name="readALLByIdNonExistNegativeTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.014"/>
+  <testcase name="readAllByIdIfEntitiesAreExistPositiveTest" classname="com.bank.antifraud.controller.SuspiciousCardTransferControllerTest" time="0.004"/>
+</testsuite>

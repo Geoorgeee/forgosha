@@ -1,0 +1,12 @@
+com\bank\antifraud\mappers\SuspiciousAccountTransferMapperTest.class
+com\bank\antifraud\service\impl\SuspiciousPhoneTransferServiceImplTest.class
+com\bank\antifraud\controller\SuspiciousAccountTransferControllerTest.class
+com\bank\antifraud\controller\SuspiciousPhoneTransferControllerTest.class
+com\bank\antifraud\mappers\AuditMapperTest.class
+com\bank\antifraud\service\impl\SuspiciousAccountTransferServiceImplTest.class
+com\bank\antifraud\controller\SuspiciousCardTransferControllerTest.class
+com\bank\antifraud\mappers\SuspiciousPhoneTransferMapperImplTest.class
+com\bank\antifraud\mappers\SuspiciousCardTransferMapperImplTest.class
+com\bank\antifraud\service\impl\SuspiciousCardTransferServiceImplTest.class
+com\bank\antifraud\controller\AuditControllerTest.class
+com\bank\antifraud\service\impl\AuditServiceImplTest.class
